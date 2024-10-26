@@ -5,7 +5,12 @@
 # SteamSharingRental by Shorekeeper
 
 Shorekeeper adalah sebuah adalah sebuah aplikasi berbasis web yang memungkinkan pengguna untuk membeli game via steam sharing account. Aplikasi ini menawarkan berbagai fitur seperti fitur pencarian berdasarkan kategori dan judul, menentukan lama peminjaman, dan dashboard manajemen untuk admin
+# File Project
+file project terlalu besar + banyak dan akan memakan waktu lama sehingga saya drive kan saja
+link : https://drive.google.com/drive/folders/1WZg2OF4729vJ3BofS8D-FQ_5WLE0F0xk?usp=sharing
 
+#fitur website
+berikut fitur website. requierement telah terpenuhi semua
 1. Admin
    - Register
    - login
