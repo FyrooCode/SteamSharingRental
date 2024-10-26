@@ -9,6 +9,7 @@ Shorekeeper adalah sebuah adalah sebuah aplikasi berbasis web yang memungkinkan 
 1. Admin
    - Register
    - login
+   - logout
    - Menambah, Mengedit, Menghapus user
    - Menambah, Mengedit, Menghapus Game
    - Menambah Menghapus Kategori
@@ -17,9 +18,16 @@ Shorekeeper adalah sebuah adalah sebuah aplikasi berbasis web yang memungkinkan 
    - cetak invoice
    - memeriksa denda
 
-
-
-
 3. user
-   - 
+   - Register
+   - login
+   - logout
+   - mencari game by name
+   - filter game by category
+   - form pembelian
+   - mengajukan pengembalian
+   - edit profile
+
+# Database mysql
+https://docs.google.com/document/d/1DNFl0dktLUl8Nh2HrZAZiKjAEsqWkBqpelMHkgifpUs/edit?usp=sharing
 
