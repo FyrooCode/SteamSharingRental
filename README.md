@@ -7,11 +7,19 @@
 Shorekeeper adalah sebuah adalah sebuah aplikasi berbasis web yang memungkinkan pengguna untuk membeli game via steam sharing account. Aplikasi ini menawarkan berbagai fitur seperti fitur pencarian berdasarkan kategori dan judul, menentukan lama peminjaman, dan dashboard manajemen untuk admin
 
 1. Admin
+   - Register
+   - login
+   - Menambah, Mengedit, Menghapus user
+   - Menambah, Mengedit, Menghapus Game
+   - Menambah Menghapus Kategori
+   - Melihat status peminjaman
+   - approve pengembalian
+   - cetak invoice
+   - memeriksa denda
 
-- Register
-- Login
-- Menambah, Mengedit, Menghapus user
-- Menambah, Mengedit, Menghapus Game
-- Menambah Menghapus Kategori
-- 
+
+
+
+3. user
+   - 
 
