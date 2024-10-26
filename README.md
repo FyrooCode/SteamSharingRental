@@ -30,4 +30,9 @@ Shorekeeper adalah sebuah adalah sebuah aplikasi berbasis web yang memungkinkan 
 
 # Database mysql
 https://docs.google.com/document/d/1DNFl0dktLUl8Nh2HrZAZiKjAEsqWkBqpelMHkgifpUs/edit?usp=sharing
+# Skema
+![image](https://github.com/user-attachments/assets/fe10a230-4004-4ee5-8a34-738ce39e1d38)
+# Demo
+https://youtu.be/UrLrtZ6WP_g?si=or_usQzkcKcTjBs7
+
 
